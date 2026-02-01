@@ -14,6 +14,7 @@ A SwiftUI iOS app to track and manage dividend income from your stock portfolio.
 ## Tech Stack
 
 - **SwiftUI** - UI framework
+- **Stitch** - Designing UI
 - **Core Data** - Local database
 - **Google OAuth** - Authentication
 - **Gmail API** - Email fetching
