@@ -1,0 +1,17 @@
+# API Keys & Secrets
+GoogleService-Info.plist
+Config.xcconfig
+Info.plist
+
+# Xcode
+*.xcuserstate
+*.xcworkspace/xcuserdata/
+DerivedData/
+*.hmap
+*.ipa
+
+# macOS
+.DS_Store
+
+# Personal
+UserDefaults.plist
