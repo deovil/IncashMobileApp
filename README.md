@@ -4,7 +4,7 @@ A SwiftUI iOS app to track and manage dividend income from your stock portfolio.
 
 ## Features
 
-- **Automated Dividend Tracking**: Fetches dividend information from Gmail using Google OAuth
+- **Automated Dividend Tracking**: Fetches dividend information from Gmail using Google OAuth (currently its set to date after after:2026/01/01)
 - **Manual Entry**: Add, edit, and delete dividend entries manually
 - **Portfolio Visualization**: View dividend allocation with interactive pie charts
 - **Dual Data Sources**: Separate tracking for API-fetched and manually entered dividends
